@@ -1,0 +1,92 @@
+{
+  "name": "SAMSUNG NOTE 3",
+  "type": "list",
+  "background": "https://de-sutra.github.io/msx/img/bag.jpg",
+  "headline": "VideoHeadline",
+  "version": "1.0.0",
+  "parameter": "content:https://de-sutra.github.io/msx/start.json",
+  "action": "[settings:validate_links:0|home]",
+  "dictionary": "https://de-sutra.github.io/msx/lang/ru.json",
+  "template": {
+    "type": "separate",
+    "layout": "0,0,2,3",
+    "color": "msx-glass"
+  },
+  "items": [
+    {
+      "title": "Video",
+      "image": "https://de-sutra.github.io/img/icon.png",
+      "action": "content:https://de-sutra.github.io/video/videos.json"
+    },
+    {
+      "title": "YouTube",
+      "image": "https://de-sutra.github.io/img/youtube.jpg",
+      "action": "content:https://de-sutra.github.io:8080/video/YouTube.json"
+    },
+    {
+      "title": "Tizen",
+      "image": "https://de-sutra.github.io/img/Tizen.png",
+      "action": "content:https://de-sutra.github.io:8080/video/tizen.json"
+    },
+    {
+      "title": "Playback and resume",
+      "image": "https://de-sutra.github.io/img/icon.png",
+      "action": "content:https://de-sutra.github.io:8080/video/Playback_Resume.json"
+    },
+    {
+      "title": "Lampa-Local",
+      "image": "https://de-sutra.github.io:8080/img/lamp.png",
+      "action": "link:https://de-sutra.github.io/lampa"
+    },
+    {
+		"title":"ТВ каналы",
+         "image": "http://msx.noname.h1n.ru/msx/img/iptv.png",
+          "action": "content:http://msx.nnmtv.xyz/iptv/tv.json"
+     },
+    {
+		"title":"ТВ каналы локал",
+         "image": "http://msx.noname.h1n.ru/msx/img/iptv.png",
+          "action": "content:https://de-sutra.github.io/video/tv.json"
+    },
+    {
+      "title": "Джин из лампы)))",
+      "image": "http://msx.noname.h1n.ru/msx/img/djin.jpg",
+      "action": "link:http://hdgo.me"
+    },
+    {
+      "title": "OneDrive",
+      "image": "http://msx.noname.h1n.ru/msx/img/djin.jpg",
+      "action": "link:http://bit.ly/3izIntr"
+    },
+    {
+      "title": "vokino",
+      "image": "http://msx.noname.h1n.ru/msx/img/vokino.png",
+      "action": "link:http://web.vokino.tv/"
+    },
+    {
+      "title": "Fork_beta",
+      "image": "https://de-sutra.github.io:8080/Fork_beta/icon.png",
+      "action": "link:https://de-sutra.github.io:8080/Fork_beta/index.html"
+    },
+    {
+      "title": "Impire Boom",
+      "image": "http://msx.noname.h1n.ru/msx/img/imboom.png",
+      "action": "link:http://web.imboom.ru/"
+    },
+    {
+      "title": "Deeplex",
+      "image": "http://msx.noname.h1n.ru/msx/img/deep.png",
+      "action": "link:http://smart.deeplex.cc"
+    },
+    {
+      "title": "Webvideocaster",
+      "image": "http://msx.noname.h1n.ru/msx/img/Webvideocaster.png",
+      "action": "link:http://vewd.webvideocaster.com/"
+    },
+    {
+      "title": "lampaPC",
+      "image": "http://msx.noname.h1n.ru/msx/img/lampa.png",
+      "action": "link:https://de-sutra.github.io:8080/Lampa-PC/lampa.html"
+    }
+  ]
+}
