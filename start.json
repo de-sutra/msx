@@ -67,9 +67,9 @@
          "action": "link:http://msx.benzac.de?leave=1"
                },
       {
-		"title":"GD-1.m3u",
+		"title":"Lampa.mx",
          "image": "https://de-sutra.github.io/msx/img/icon.png",
-         "action": "link:https://bit.ly/3kgLPcJ"
+         "action": "link:http://lampa.mx"
       }
    ]
 }
