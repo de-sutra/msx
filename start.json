@@ -21,21 +21,21 @@
     {
       "title": "YouTube",
       "image": "https://de-sutra.github.io/img/youtube.jpg",
-      "action": "content:https://de-sutra.github.io:8080/video/YouTube.json"
+      "action": "content:https://de-sutra.github.io/video/YouTube.json"
     },
     {
       "title": "Tizen",
       "image": "https://de-sutra.github.io/img/Tizen.png",
-      "action": "content:https://de-sutra.github.io:8080/video/tizen.json"
+      "action": "content:https://de-sutra.github.io/video/tizen.json"
     },
     {
       "title": "Playback and resume",
       "image": "https://de-sutra.github.io/img/icon.png",
-      "action": "content:https://de-sutra.github.io:8080/video/Playback_Resume.json"
+      "action": "content:https://de-sutra.github.io/video/Playback_Resume.json"
     },
     {
       "title": "Lampa-Local",
-      "image": "https://de-sutra.github.io:8080/img/lamp.png",
+      "image": "https://de-sutra.github.io/img/lamp.png",
       "action": "link:https://de-sutra.github.io/lampa"
     },
     {
@@ -65,7 +65,7 @@
     },
     {
       "title": "Fork_beta",
-      "image": "https://de-sutra.github.io:8080/Fork_beta/icon.png",
+      "image": "https://de-sutra.github.io/Fork_beta/icon.png",
       "action": "link:https://de-sutra.github.io:8080/Fork_beta/index.html"
     },
     {
