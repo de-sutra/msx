@@ -65,11 +65,16 @@
 		"title":"WEB MSX HTTP",
          "image": "http://msx.noname.h1n.ru/msx/img/msx.jpg",
          "action": "link:http://msx.benzac.de?leave=1"
-               },
+      },
       {
 		"title":"Lampa.mx",
          "image": "https://de-sutra.github.io/msx/img/icon.png",
          "action": "link:http://lampa.mx"
+      },
+      {
+		"title":"TEST",
+          "image": "https://de-sutra.github.io/msx/img/icon.png",
+	  "menu:https://benzac-de.github.io/msx/data/menu.json"
       }
    ]
 }
