@@ -74,7 +74,7 @@
       {
 		"title":"TEST",
           "image": "https://de-sutra.github.io/msx/img/icon.png",
-	  "menu": "https://de-sutra.github.io/msx/data/menu.json"
+	  "menu:https://de-sutra.github.io/msx/data/menu.json"
       }
    ]
 }
