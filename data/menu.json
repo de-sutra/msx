@@ -17,8 +17,8 @@
         }, 
         {
             "label": "Playback & Resume",
-            "extensionLabel": "0.1.74+",
-            "data": "http://msx.benzac.de/info/xp/data/live_test_2.json"
+            "extensionLabel": "GD",
+            "data": "https://docs.google.com/uc?authuser=0&id=19eHdDqcLj-LvvDDGRar53KOCuk3gD1xV"
         },
         {
             "icon": "music-note",
@@ -36,7 +36,6 @@
             "data": "https://de-sutra.github.io/msx/data/base/youtube.json"
         },
         {
-            "icon": "smart-display",
             "label": "YouTube-GD",
             "data": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1yTCYbdcO8ANRGjoLsN9G3H12UXr6hIet"
         },
