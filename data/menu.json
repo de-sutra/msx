@@ -14,6 +14,11 @@
             "icon": "movie",
             "label": "Videos",
             "data": "https://de-sutra.github.io/msx/data/base/videos.json"
+        }, 
+        {
+            "label": "Playback & Resume",
+            "extensionLabel": "0.1.74+",
+            "data": "http://msx.benzac.de/info/xp/data/live_test_2.json"
         },
         {
             "icon": "music-note",
