@@ -16,6 +16,7 @@
             "data": "https://de-sutra.github.io/msx/data/base/videos.json"
         }, 
         {
+            "icon": "movie",
             "label": "Playback & Resume",
             "extensionLabel": "GD",
             "data": "https://docs.google.com/uc?authuser=0&id=19eHdDqcLj-LvvDDGRar53KOCuk3gD1xV"
@@ -36,7 +37,9 @@
             "data": "https://de-sutra.github.io/msx/data/base/youtube.json"
         },
         {
-            "label": "YouTube-GD",
+            "icon": "smart-display",
+            "label": "YouTube",
+            "extensionLabel": "GD",
             "data": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1yTCYbdcO8ANRGjoLsN9G3H12UXr6hIet"
         },
         {
