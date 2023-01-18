@@ -27,10 +27,10 @@
             "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=tOAAg3h1_U8"
         },
         {
-            "title": "TV Benchmark Tests",
-            "playerLabel": "TV Benchmark Tests",
-            "image": "https://img.youtube.com/vi/9A_I_ZqbWkM/hqdefault.jpg",
-            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=9A_I_ZqbWkM"
+            "title": "TV M3U",
+            "playerLabel": "TV M3U",
+            "image": "https://img.youtube.com/vi/Rkb7Hv3Cxto/hqdefault.jpg",
+            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=Rkb7Hv3Cxto"
         }
     ]
 }
