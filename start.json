@@ -75,6 +75,11 @@
 		"title":"TEST",
           "image": "https://de-sutra.github.io/msx/img/icon.png",
 	  "action": "menu:https://de-sutra.github.io/msx/data/menu.json"
+      },
+      {
+		"title":"TEST2local",
+          "image": "https://de-sutra.github.io/msx/img/icon.png",
+	  "action": "menu:http://192.168.1.49:8080/msx/data/menu.json"
       }
    ]
 }
