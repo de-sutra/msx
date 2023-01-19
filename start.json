@@ -17,21 +17,6 @@
    },
    "items": [
       {
-		"title":"Lampa",
-         "image": "http://msx.noname.h1n.ru/msx/img/lampa.jpg",
-          "action": "link:http://msx.noname.h1n.ru/lampa/"
-      },
-      {
-		"title":"Lampa Lite",
-         "image": "http://msx.noname.h1n.ru/msx/img/lampa_lite.jpg",
-          "action": "link:http://msx.noname.h1n.ru/lampa_lite/"
-      },
-      {
-		"title":"Atodo",
-         "image": "http://atodo.fun/assets/images/icon.png?v=0.1",
-          "action": "menu:request:interaction:menu@http://atodo.fun/fun.html"
-      },
-      {
 		"title":"ForkPlayer (RU)",
          "image": "http://msx.noname.h1n.ru/msx/img/forknew.png",
          "action": "link:http://browser.appinfo.su/"
@@ -42,19 +27,9 @@
          "action": "link:http://browser.appfxml.com/"
       },
       {
-		"title":"Ott-play",
-         "image": "http://msx.noname.h1n.ru/msx/img/ottplay.jpg",
-         "action": "link:http://ott-play.com/f/"
-      },
-      {
 		"title":"Ott-play FOSS",
          "image": "http://msx.noname.h1n.ru/msx/img/ott_foss.png",
          "action": "link:http://ott.prog4food.eu.org/f/"
-      },
-      {
-		"title":"DRM-Play",
-         "image": "http://msx.noname.h1n.ru/msx/img/drm_play.png",
-         "action":"execute:info:extended:http://drm-play.ml/msx/data.php"
       },
       {
 		"title":"Webvideocaster",
