@@ -39,14 +39,8 @@
       {
 	        "label":"1.m3u-GD",
 		"title":"WEB MSX HTTP",
-         "image": "http://msx.noname.h1n.ru/msx/img/msx.jpg",
+         "image": "https://de-sutra.github.io/msx/img/lamp.png",
          "action": "link:http://msx.benzac.de?leave=1"
-      },
-      {
-	      "label":"Test",
-              "title":"WEB MSX HTTP TEST",
-         "image": "http://msx.noname.h1n.ru/msx/img/msx.jpg",
-         "action": "link:http://msx.benzac.de?leave=2"
       },
       {
 		"title":"MENU JSON",
