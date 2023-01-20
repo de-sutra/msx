@@ -44,6 +44,7 @@
 	 },
          {
     "title": "Launcher Benzac",
+    "image": "http://msx.noname.h1n.ru/msx/img/msx.jpg",
     "version": "1.0.14",
     "action": "menu:request:interaction:init@http://launcher.msx.benzac.de/interaction",
     "welcome": "content",
