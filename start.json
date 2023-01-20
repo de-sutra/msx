@@ -39,7 +39,7 @@
       {
 	        "label":"1.m3u-GD",
 		"title":"WEB MSX HTTP",
-         "image": "https://de-sutra.github.io/msx/img/lamp.png",
+         "image": "http://v4.msxplayer.ru/msx/static/apps/gdisk/icon.png",
          "action": "link:http://msx.benzac.de?leave=1"
 	 },
          {
