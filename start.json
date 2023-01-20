@@ -41,6 +41,13 @@
 		"title":"WEB MSX HTTP",
          "image": "https://de-sutra.github.io/msx/img/lamp.png",
          "action": "link:http://msx.benzac.de?leave=1"
+	 },
+         {
+    "title": "Launcher Benzac",
+    "version": "1.0.14",
+    "action": "menu:request:interaction:init@http://launcher.msx.benzac.de/interaction",
+    "welcome": "content",
+    "note": "For this service, Media Station X 0.1.132 or higher is needed."
       },
       {
 		"title":"MENU JSON",
