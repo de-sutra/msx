@@ -9,7 +9,7 @@
   "action": "[settings:validate_links:0|home]", 
   "dictionary": "https://de-sutra.github.io/msx/lang/ru.json",
     "launcher": {
-        "image": "http://msx.noname.h1n.ru/msx/img/noname.png"},
+        "image": "https://de-sutra.github.io/msx/img/sinema.png"},
    "template": {
         "type": "separate",
       "layout": "0,0,2,3",
