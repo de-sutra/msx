@@ -64,7 +64,7 @@
       {
 		"title":"Lampa lOCAL",
           "image": "https://de-sutra.github.io/msx/img/icon.png",
-	  "action": "link:http://192.168.1.49:8000/Lampa/"
+	  "action": "link:http://192.168.1.49:8000"
       }
    ]
 }
