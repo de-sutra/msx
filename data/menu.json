@@ -27,17 +27,17 @@
     },
     {
       "icon": "smart-display",
-      "label": "YouTube",
-      "data": "https://benzac-de.github.io/msx/data/base/youtube.json"
+      "label": "tizen_test.Local",
+      "data": "http://192.168.1.49:8000/tizen_test.json"
     },
     {
       "icon": "smart-display",
-      "label": "TubeLocal",
+      "label": "youtube.Local",
       "data": "http://192.168.1.49:8000/youtube.json"
     },
     {
       "icon": "smart-display",
-      "label": "LiveTest3",
+      "label": "live_test_3.Local",
       "data": "http://192.168.1.49:8000/live_test_3.json"
     },
     {
