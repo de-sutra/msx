@@ -12,8 +12,13 @@
     },
     {
       "icon": "movie",
-      "label": "Videos",
-      "data": "http://192.168.1.49:8000/videos.json"
+      "label": "List_1",
+      "data": "http://192.168.1.49:8000/list_1.json"
+    },
+    {
+      "icon": "movie",
+      "label": "List_2",
+      "data": "http://192.168.1.49:8000/list_2.json"
     },
     {
       "icon": "music-note",
