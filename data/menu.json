@@ -7,9 +7,9 @@
       "data": "https://benzac-de.github.io/msx/data/welcome.json"
     },
     {
-      "label": "msxplayer v.4",
+      "label": "msx",
       "icon": "smart-display",
-      "action": "menu:request:interaction:init:eyJoYW5kbGVySWQiOiJzdG9yZSIsInJlcXVlc3QiOiJtZW51In0=@http://v4.msxplayer.ru/plugins/interactions/msxplayer/"
+      "action": "menu:request:interaction:init:eyJoYW5kbGVySWQiOiJzdG9yZSIsInJlcXVlc3QiOiJtZW51In0=@http://launcher.msx.benzac.de/interaction"
     },
     {
       "type": "separator",
