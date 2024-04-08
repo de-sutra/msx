@@ -9,7 +9,7 @@
     {
       "label": "msx",
       "icon": "smart-display",
-      "action": "menu:request:interaction:init:eyJoYW5kbGVySWQiOiJzdG9yZSIsInJlcXVlc3QiOiJtZW51In0=@http://launcher.msx.benzac.de/interaction"
+      "data": "menu:request:interaction:init:eyJoYW5kbGVySWQiOiJzdG9yZSIsInJlcXVlc3QiOiJtZW51In0=@http://launcher.msx.benzac.de/interaction"
     },
     {
       "type": "separator",
