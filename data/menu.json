@@ -4,12 +4,12 @@
     {
       "icon": "info",
       "label": "Welcome",
-      "data": "https://benzac-de.github.io/msx/data/welcome.json"
+      "data": "https://de-sutra.github.io/msx/data/welcome.json"
     },
     {
-      "label": "msx",
+      "label": "msx list",
       "icon": "smart-display",
-      "data": "menu:request:interaction:init:eyJoYW5kbGVySWQiOiJzdG9yZSIsInJlcXVlc3QiOiJtZW51In0=@http://launcher.msx.benzac.de/interaction"
+      "data": "http://192.168.1.49:8000/msx.json"
     },
     {
       "type": "separator",
