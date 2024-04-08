@@ -5,6 +5,7 @@
       "icon": "info",
       "label": "Welcome",
       "data": "https://benzac-de.github.io/msx/data/welcome.json"
+    },
     {
       "label": "msxplayer v.4",
       "icon": "smart-display",
